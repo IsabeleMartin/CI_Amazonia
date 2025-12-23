@@ -1,0 +1,5 @@
+total 12
+-rw-rw-r-- 1 isabele-martins isabele-martins    0 dez 16 20:58 lista_arquivos.txt
+-rwxrwxr-x 1 isabele-martins isabele-martins  327 dez 16 20:18 meu_script.sh
+-rwxrwxr-x 1 isabele-martins isabele-martins  423 dez 16 20:54 script_condicional.sh
+drwxrwxr-x 2 isabele-martins isabele-martins 4096 dez 11 10:40 test_cp_dir

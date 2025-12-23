@@ -1,0 +1,28 @@
+OK - Coordenador faz login (ja tem tela de login)
+- Depois do login vai pra lista de empreendimentos (ja tem)
+- Clica no botão de criar um novo empreendimento
+- Vai pra tela de registro de nova obra com obra/torre/unidade/itens (ainda nao tem)
+ - sugestão: fazer como se fosse uma <ul> com itens <li> ambos estilizados, pra ficar intuitivo
+ - nota: os instaladores e fornecedor de cada item tem q ir junto também
+- Quando registra vai pra lista de novo
+- clica no botão do lapis na nova obra
+- abre o modal com informações basicas e tem o botão de registrar usuários
+- abre o modal de registrar um novo usuário, mas também importar um arquivo com os usuários (ainda nao tem esse modal. o template ta no src/templates no back)
+- registra o(s) usuário(s) e fecha o modal
+
+* é bom usar a importação de arquivo pra registrar, e com um email de verdade que vai ser usado pra continuar o fluxo*
+
+- sai da conta de admin
+- recebe o email e entra com a nova senha (isso ja tem)
+- na tela inicial de usuário deve haver estar as reclamações que ele registrou (ja tem)
+- vai em "registrar ocorrência" par registrar uma reclamação
+- seleciona o item e descreve
+- tem a opção de gerar issue com IA ou escrever (pode ser uma input com o botão da ia do lado)
+- registra a reclamação e vai pra home (tela das reclamações dele)
+- sai da conta de usuário
+
+- entra com a conta do admin (vai pra tela de empreendimentos)
+- clica na obra que registrou o usuário que fez reclamação anteriormente
+- ao clicar abre a tela do dashboard
+ve os indicadores basicos que apareceram com a nova reclamação
+- fim
